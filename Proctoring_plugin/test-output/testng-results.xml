@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51913" started-at="2022-04-27T13:41:18Z" finished-at="2022-04-27T13:42:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51913" started-at="2022-04-27T13:41:18Z" finished-at="2022-04-27T13:42:10Z">
+      <class name="proctoring.testcases.LoginPageTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="initialization" is-config="true" duration-ms="6220" started-at="2022-04-27T13:41:12Z" finished-at="2022-04-27T13:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="setUp" is-config="true" duration-ms="27" started-at="2022-04-27T13:41:18Z" finished-at="2022-04-27T13:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:proctoring.testcases.LoginPageTest@5383967b]" name="loginTest" duration-ms="8877" started-at="2022-04-27T13:41:18Z" finished-at="2022-04-27T13:41:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="setUp" is-config="true" duration-ms="2" started-at="2022-04-27T13:41:27Z" finished-at="2022-04-27T13:41:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="course()[pri:2, instance:proctoring.testcases.LoginPageTest@5383967b]" name="course" duration-ms="3860" started-at="2022-04-27T13:41:27Z" finished-at="2022-04-27T13:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- course -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="setUp" is-config="true" duration-ms="1" started-at="2022-04-27T13:41:31Z" finished-at="2022-04-27T13:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="quiz()[pri:3, instance:proctoring.testcases.LoginPageTest@5383967b]" name="quiz" duration-ms="7100" started-at="2022-04-27T13:41:31Z" finished-at="2022-04-27T13:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quiz -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="setUp" is-config="true" duration-ms="1" started-at="2022-04-27T13:41:38Z" finished-at="2022-04-27T13:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="attempt()[pri:4, instance:proctoring.testcases.LoginPageTest@5383967b]" name="attempt" duration-ms="3064" started-at="2022-04-27T13:41:38Z" finished-at="2022-04-27T13:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="setUp" is-config="true" duration-ms="2" started-at="2022-04-27T13:41:41Z" finished-at="2022-04-27T13:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validation()[pri:5, instance:proctoring.testcases.LoginPageTest@5383967b]" name="validation" duration-ms="3059" started-at="2022-04-27T13:41:41Z" finished-at="2022-04-27T13:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="setUp" is-config="true" duration-ms="1" started-at="2022-04-27T13:41:44Z" finished-at="2022-04-27T13:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="start()[pri:6, instance:proctoring.testcases.LoginPageTest@5383967b]" name="start" duration-ms="4101" started-at="2022-04-27T13:41:44Z" finished-at="2022-04-27T13:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="setUp" is-config="true" duration-ms="2" started-at="2022-04-27T13:41:48Z" finished-at="2022-04-27T13:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="quiz1()[pri:7, instance:proctoring.testcases.LoginPageTest@5383967b]" name="quiz1" duration-ms="3153" started-at="2022-04-27T13:41:48Z" finished-at="2022-04-27T13:41:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quiz1 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="setUp" is-config="true" duration-ms="1" started-at="2022-04-27T13:41:51Z" finished-at="2022-04-27T13:41:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="quiz2()[pri:8, instance:proctoring.testcases.LoginPageTest@5383967b]" name="quiz2" duration-ms="3050" started-at="2022-04-27T13:41:51Z" finished-at="2022-04-27T13:41:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quiz2 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="setUp" is-config="true" duration-ms="1" started-at="2022-04-27T13:41:54Z" finished-at="2022-04-27T13:41:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="finish()[pri:9, instance:proctoring.testcases.LoginPageTest@5383967b]" name="finish" duration-ms="4268" started-at="2022-04-27T13:41:54Z" finished-at="2022-04-27T13:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="setUp" is-config="true" duration-ms="3" started-at="2022-04-27T13:41:58Z" finished-at="2022-04-27T13:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="submit1()[pri:10, instance:proctoring.testcases.LoginPageTest@5383967b]" name="submit1" duration-ms="3075" started-at="2022-04-27T13:41:58Z" finished-at="2022-04-27T13:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit1 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="setUp" is-config="true" duration-ms="1" started-at="2022-04-27T13:42:01Z" finished-at="2022-04-27T13:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="submit2()[pri:11, instance:proctoring.testcases.LoginPageTest@5383967b]" name="submit2" duration-ms="4369" started-at="2022-04-27T13:42:01Z" finished-at="2022-04-27T13:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit2 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="setUp" is-config="true" duration-ms="2" started-at="2022-04-27T13:42:06Z" finished-at="2022-04-27T13:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="review()[pri:12, instance:proctoring.testcases.LoginPageTest@5383967b]" name="review" duration-ms="3848" started-at="2022-04-27T13:42:06Z" finished-at="2022-04-27T13:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- review -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:proctoring.testcases.LoginPageTest@5383967b]" name="tearDown" is-config="true" duration-ms="1176" started-at="2022-04-27T13:42:10Z" finished-at="2022-04-27T13:42:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- proctoring.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
